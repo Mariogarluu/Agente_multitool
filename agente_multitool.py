@@ -24,7 +24,7 @@ tools = [
 
 # Inicializamos el modelo en Groq (ultrarrápido y con soporte nativo de Tool Calling)
 llm = ChatGroq(
-    model="llama-3.3-70b-versatile",
+    model="qwen/qwen3.8-27b",
     api_key=api_key,
     temperature=0,
 )
