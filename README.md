@@ -1,6 +1,6 @@
 # 🐉 Agente Multitool - Dragon Ball API
 
-Agente inteligente autónomo desarrollado con **LangGraph** y **LangChain**, integrado con **Groq** (`llama-3.3-70b-versatile`) para realizar consultas especializadas y en tiempo real a la [Dragon Ball API](https://dragonball-api.com).
+Agente inteligente autónomo desarrollado con **LangGraph** y **LangChain**, integrado con **Groq** (`qwen/qwen3.8-27b`) para realizar consultas especializadas y en tiempo real a la [Dragon Ball API](https://dragonball-api.com).
 
 El agente utiliza un patrón **ReAct** (Reasoning + Acting) para interpretar las preguntas del usuario, elegir de forma dinámica las herramientas adecuadas y sintetizar la información solicitada.
 
